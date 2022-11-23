@@ -1,5 +1,5 @@
 import React from 'react'
-import Counter from './fucntional-components/counter-app/Counter';
+import Counter from './functional-components/counter-app/Counter';
 // import StudentsList from './fucntional-components/props-and-lists/StudentsList';
 
 const App = () => {
