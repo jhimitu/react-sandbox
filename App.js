@@ -1,12 +1,11 @@
 import React from 'react'
-import Counter from './functional-components/counter-app/Counter';
-// import StudentsList from './fucntional-components/props-and-lists/StudentsList';
+import TodoList from './functional-components/todo-list/TodoList';
 
 const App = () => {
     return (
         <div>
             <h1>My React App</h1>
-            <Counter />
+            <TodoList />
         </div>
     );
 }
